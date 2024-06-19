@@ -54,7 +54,7 @@
 - **🎮 Anime:** Devoted anime enthusiast.
 
 ## 📫 Get in Touch
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarhanmuhammad584@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=netlify&logoColor=white)](https://mohamed-sarhan.netlify.app/)
 
 ## 🎉 Fun Facts
