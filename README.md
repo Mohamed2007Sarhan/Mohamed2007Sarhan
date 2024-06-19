@@ -44,8 +44,8 @@
 
 ## 📈 GitHub Stats
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamed2007Sarhan&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed2007Sarhan&layout=compact&theme=radical"/>
 </div>
 
 ## ✨ Interests
@@ -54,7 +54,6 @@
 - **🎮 Anime:** Devoted anime enthusiast.
 
 ## 📫 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=netlify&logoColor=white)](https://mohamed-sarhan.netlify.app/)
 
