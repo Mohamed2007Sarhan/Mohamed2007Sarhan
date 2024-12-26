@@ -1,5 +1,7 @@
 # Hi there, I'm Mohamed Sarhan 👋
 
+<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&duration=6000&center=true&vCenter=true&width=1600&height=140&lines=%E2%9C%A8+Hi+there+%F0%9F%91%8B+I%27Mohamed+Sarhan'></h1>
+
 ## 🌟 About Me
 - **💻 Prodigy Programmer** with 8 years of experience.
 - **🎓 Current Roles:** Working at Haworth University and Cyber Investigations.
