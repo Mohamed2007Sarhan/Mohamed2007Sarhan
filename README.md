@@ -1,20 +1,22 @@
 # Hi there, I'm Mohamed Sarhan 👋
 
-<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&duration=6000&center=true&vCenter=true&width=1600&height=140&lines=%E2%9C%A8+Hi+there+%F0%9F%91%8B+I%27Mohamed+Sarhan'></h1>
+<h1 align="center">
+  <img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&duration=6000&center=true&vCenter=true&width=1600&height=140&lines=%E2%9C%A8+Hi+there+%F0%9F%91%8B+I%27m+Mohamed+Sarhan'>
+</h1>
 
 ## 🌟 About Me
-- **💻 Prodigy Programmer** with 8 years of experience.
+- **💻 Prodigy Programmer:** 8+ years of hands-on experience.
 - **🎓 Current Roles:** Working at Haworth University and Cyber Investigations.
-- **🌐 Expertise:** Legendary proficiency in programming, beginner to intermediate in cybersecurity and penetration testing.
-- **🚀 Multilingual Developer:** Fluent in 18 programming languages, seamlessly switching between them without errors.
-- **⚡ Speed Demon:** Exceptionally fast and distinguished in my field.
-- **🌱 Lifelong Learner:** Passionate about discovering new technologies and continuous learning.
-- **🎌 Anime Enthusiast:** Avid anime fan.
+- **🌐 Expertise:** Advanced in programming; intermediate in cybersecurity and penetration testing.
+- **🚀 Multilingual Developer:** Fluent in 18 programming languages, seamlessly switching between them.
+- **⚡ Speed Demon:** Renowned for speed and precision.
+- **🌱 Lifelong Learner:** Continuously exploring new technologies.
+- **🎌 Anime Enthusiast:** A dedicated fan of anime culture.
 
 ## 💼 Professional Experience
-- **Programming Experience:** 8 years
-- **Work Environments:** Haworth University, Cyber Investigations
-- **Programming Languages:** 
+- **Programming Experience:** 8 years.
+- **Workplaces:** Haworth University, Cyber Investigations.
+- **Programming Languages:**
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
@@ -35,34 +37,36 @@
   - ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)
   - ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
   - ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-- **Spoken Languages:** 
+- **Spoken Languages:**
   - ![German](https://img.shields.io/badge/German-000000?style=flat&logo=german&logoColor=white)
   - ![Arabic](https://img.shields.io/badge/Arabic-007A3D?style=flat&logo=arabic&logoColor=white)
   - ![English](https://img.shields.io/badge/English-0077B5?style=flat&logo=english&logoColor=white)
-- **Additional Skills:** Cybersecurity, Penetration Testing
+- **Additional Skills:** Cybersecurity, Penetration Testing.
 
 ## 🚀 Highlighted Projects
-- Despite my previous account being deactivated, I have many notable projects available upon request.
+- While my previous account was deactivated, I have many exceptional projects available upon request.
 
 ## 📈 GitHub Stats
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamed2007Sarhan&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed2007Sarhan&layout=compact&theme=radical"/>
 </div>
 
 ## ✨ Interests
-- **💡 Exploring:** Always on the lookout for new technologies.
-- **📚 Learning:** Committed to expanding my knowledge.
-- **🎮 Anime:** Devoted anime enthusiast.
+- **💡 Exploring:** Constantly on the hunt for cutting-edge technologies.
+- **📚 Learning:** Dedicated to deepening my expertise.
+- **🎮 Anime:** Unwavering anime lover.
 
 ## 📫 Get in Touch
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarhanmuhammad584@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=netlify&logoColor=white)](https://mohamed-sarhan.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=netlify&logoColor=white)](https://prof-mohamed-sarhan.netlify.app/)
 
 ## 🎉 Fun Facts
-- **💬 Typing Speed:** "I'm super fast at typing" ⌨️
-- **🔥 Experience:** "I've literally explored all realms of programming" 💼
+- **💬 Typing Speed:** I type at lightning speed ⌨️.
+- **🔥 Experience:** I’ve ventured into all realms of programming 💼.
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohamed2007Sarhan&color=blueviolet)
+
+
