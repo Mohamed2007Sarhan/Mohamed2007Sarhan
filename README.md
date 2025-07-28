@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed Sarhan! 👋
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Dev+%26+Cybersecurity+Engineer;Anime+Lover+%E2%9C%A8;Speed+%26+Precision+in+Code!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Dev+%26+Cybersecurity+Engineer;Software+Engineer;Anime+Lover+%E2%9C%A8;Speed+%26+Precision+in+Code!"/>
 </h1>
 
 ---
@@ -99,7 +99,7 @@ chkrootkit && rkhunter --check
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://mohamed-sarhan.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-sarhan-b53a8b284)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://www.linkedin.com/in/mohamed-sarhan-b53a8b284](https://www.linkedin.com/in/mohamed-sarhan-b53a8b284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Prof7mohamedsarhan@gmail.com)
 
 ---
