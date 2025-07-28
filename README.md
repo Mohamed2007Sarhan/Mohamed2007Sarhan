@@ -25,8 +25,6 @@
   - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
   - ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
   - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-  - ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-  - ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
   - ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
   - ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
   - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -35,8 +33,6 @@
   - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
   - ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
   - ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)
-  - ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-  - ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 - **Spoken Languages:**
   - ![German](https://img.shields.io/badge/German-000000?style=flat&logo=german&logoColor=white)
   - ![Arabic](https://img.shields.io/badge/Arabic-007A3D?style=flat&logo=arabic&logoColor=white)
