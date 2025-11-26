@@ -14,7 +14,7 @@
 
 ```bash
 > whoami
-> Mohamed Sarhan - Full Stack Developer | Cybersecurity Specialist | Code Ninja | Software Engineer | Dentisty
+> Mohamed Sarhan - Full Stack Developer | Cybersecurity Specialist | Code Ninja | Software Engineer | Dentisty | Trader | Penetration tester | AI Trainer | Data Analytics
 ```
 
 * 👨‍💻 8+ years of real-world experience
