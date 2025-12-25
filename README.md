@@ -72,7 +72,7 @@ chkrootkit && rkhunter --check
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[RBF Custom Core](https://github.com/Mohamed2007Sarhan/RBF)** | 🧠 **Machine Learning from Scratch.** Engineered a custom Radial Basis Function library without external frameworks to optimize math algorithms. | `Python` `Math` `Algorithms` |
+| **[machine-learning Custom Core](https://github.com/Mohamed2007Sarhan/machine-learning)** | 🧠 **Machine Learning from Scratch.** Engineered a custom Radial Basis Function library without external frameworks to optimize math algorithms. | `Python` `Math` `Algorithms` |
 | **[iBrand Architecture](https://github.com/Mohamed2007Sarhan/ibrand_front_react)** | 🏗️ **Production-Grade Frontend.** Architected the core frontend system for iBrand, focusing on scalability and performance optimization. | `React.js` `Redux` `Optimization` |
 | **[Codeflow Platform](https://github.com/Mohamed2007Sarhan/codeflow-website)** | 🔐 **Secure EdTech Platform.** Full-stack coding education platform with real-time data handling and secure authentication. | `Node.js` `Security` `React` |
 
