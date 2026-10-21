@@ -17,7 +17,7 @@
 > Mohamed Sarhan - Software Architect | Red Team Operator | Python Expert | Embedded Systems Engineer
 ```
 
-* 👨‍💻 **9+ years** of coding experience (Since 2015).
+* 👨‍💻 **10+ years** of coding experience (Since 2015).
 * 🏫 Software Engineer (R&D) at **Horus University**.
 * 🧠 Specialist in **Custom Exploit Development** & **System Hardening**.
 * 🛡️ I don't just run tools; **I build them**.
